@@ -32,6 +32,6 @@
 [![Share mod button transparan GTA SAMP/GTA SA NO PW!!](https://ytcards.demolab.com/?id=HtTgzwGSzBo&title=Share+mod+button+transparan+GTA+SAMP%2FGTA+SA+NO+PW%21%21&lang=en&timestamp=1686817620&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Share mod button transparan GTA SAMP/GTA SA NO PW!!")](https://www.youtube.com/watch?v=HtTgzwGSzBo)
 <!-- END YOUTUBE-CARDS -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://youtube.com/@danzskuy99?si=0CIqSUvDn3wjQ-O0)
+[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRI4q0xJRd8HTDJfnyVJzm5ipOpvpvy9WtRQ&s" width="20%" height="20%"/>](https://youtube.com/@danzskuy99?si=0CIqSUvDn3wjQ-O0)
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucyy28&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en" alt="lucyy28" /></p>
