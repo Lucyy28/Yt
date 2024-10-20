@@ -29,6 +29,7 @@
 - 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Kejadiannya begitu cepat...](https://ytcards.demolab.com/?id=3A0FaHzq5tE&title=Kejadiannya+begitu+cepat...&lang=en&timestamp=1729411608&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Kejadiannya begitu cepat...")](https://www.youtube.com/watch?v=3A0FaHzq5tE)
 [![Share mod button transparan GTA SAMP/GTA SA NO PW!!](https://ytcards.demolab.com/?id=HtTgzwGSzBo&title=Share+mod+button+transparan+GTA+SAMP%2FGTA+SA+NO+PW%21%21&lang=en&timestamp=1686817620&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Share mod button transparan GTA SAMP/GTA SA NO PW!!")](https://www.youtube.com/watch?v=HtTgzwGSzBo)
 <!-- END YOUTUBE-CARDS -->
 
